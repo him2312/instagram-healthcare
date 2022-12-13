@@ -21,6 +21,6 @@
       "@/styles/*": ["styles/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "types.d.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "types.d.ts", "components/Feed/Feed.jsx", "utils/utils.js", "pages/liked/index.js", "api/mockData.js"],
   "exclude": ["node_modules"]
 }
